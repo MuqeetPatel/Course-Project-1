@@ -1,4 +1,4 @@
-
+#Course Project 1
 There are 3 files in this repository
 <li> README.md </li>
 <li> R script for making assignment plot </li>
